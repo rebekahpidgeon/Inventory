@@ -1,0 +1,5 @@
+Ideas:
+    - Separate logins for users and inventory owner
+    - Owner can decide whether items are available for users to take or not
+    - Users have their own inventory with their own items
+    - Owner has access to all users and their inventories
